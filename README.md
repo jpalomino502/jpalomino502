@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="280" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif"  />
+<img align="right" height="300" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif"  />
 
 ###
 
@@ -49,7 +49,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/jpalomino502/jpalomino502/output/snake.svg" alt="Snake animation" />
 
 ###
