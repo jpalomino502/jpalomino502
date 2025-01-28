@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Joseph. I am a Systems Engineering student at Universidad Autónoma de Bucaramanga and a passionate web developer with experience in technologies such as Firebase, CSS, HTML, JavaScript, React, Kotlin, and PHP. 💻 Proficient in using tools like Visual Studio, Android Studio, and always eager to learn new tools to create efficient and attractive web and mobile applications. 🚀 Always seeking new challenges and opportunities to improve my skills and contribute to innovative projects.  </h4>
+<h4 align="left">Hi, I'm Joseph. I am a Systems Engineering student at Universidad Autónoma de Bucaramanga and a passionate web developer with experience in technologies such as Firebase, CSS, HTML, JavaScript, React, Kotlin, and PHP. 💻 Proficient in using tools like Visual Studio, Android Studio, and always eager to learn new tools to create efficient and attractive web and mobile applications. 🚀 Always seeking new challenges and opportunities to improve my skills and contribute to innovative projects. </h4>
 
 ###
 
