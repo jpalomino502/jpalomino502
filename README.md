@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Joseph</h2>
+<h2 align="center"> Hi there 👋, I'm Joseph</h2>
 
 <p align="center">
   🎓 Systems Engineering student at <strong>Universidad Autónoma de Bucaramanga</strong><br>
