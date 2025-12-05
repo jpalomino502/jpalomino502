@@ -1,45 +1,76 @@
-<h2 align="center"> Hi there 👋, I'm Joseph</h2>
-
-<p align="center">
-  🎓 Systems Engineering student at <strong>Universidad Autónoma de Bucaramanga</strong><br>
-  💻 Passionate web and mobile developer<br>
-  🚀 Always learning, always improving
-</p>
+<div align="center">
+  <h1 align="center">Hi there, I'm Joseph 👋</h1>
+  <h3 align="center">Frontend Developer & Software Architect</h3>
+  <p align="center">
+    <em>"Building digital experiences capable of surprising."</em>
+  </p>
+  
+  <a href="https://jpalomino.dev">
+    <img src="https://img.shields.io/badge/Portfolio-jpalomino.dev-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-usuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Who Am I?
 
-I'm a Systems Engineering student with a strong passion for web and mobile development. I have hands-on experience with technologies like **Firebase**, **JavaScript**, **React**, **HTML**, **CSS**, **Kotlin**, and **PHP**.  
+I'm a **Systems Engineering student** at UNAB and a passionate **Frontend Developer** with a unique vision for design. My journey started with Arduino and electronics, but I found my true home in code.
 
-I enjoy creating efficient and attractive applications using tools such as **Visual Studio** and **Android Studio**, and I’m constantly exploring new technologies to improve my skill set.  
+I don't just write code; I **architect solutions**. I believe in building with a long-term vision, blending technical robustness with artistic expression. My style oscillates between **clean, minimalist modernism** (rounded-4xl, big borders) and **experimental, colorful creativity**.
 
-I'm driven by curiosity and love taking on new challenges that allow me to grow and contribute to innovative projects.
+> *My creativity comes from mixing everything I love: music, art, nostalgia, modernity, and deep curiosity.*
+
+---
+
+### 🛠️ Tech Stack
+
+I focus on creating clean, modern, and expressive interfaces.
+
+**Core Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase" />
+</p>
+
+**Also fluent in:**
+`Vite.js` `Firebase` `Python` `C#` `C++` `Unity`
+
+---
+
+### 🌟 Projects that Define Me
+
+- **[ChefSync](https://chefsync.co)** (In Development): My pride and joy. A SaaS POS for restaurants that taught me advanced architecture and patience.
+- **[jpalomino.dev](https://jpalomino.dev)**: My dual-personality portfolio. A space where my "Professional" and "Creative" sides coexist.
+- **Creative Experiments**: I love building landing pages with visual effects (Three.js, MagicUI) that leave a lasting impression.
+
+---
+
+### 🎨 Beyond Code
+
+I'm not just a developer. My work is heavily influenced by:
+- **Music**: I explored over **425 genres** this year. *DATA* by Tainy is a major design influence for me.
+- **Art**: I draw and paint, which naturally reflects in how I build UIs.
+- **Anime & 80s Futurism**: A huge source of aesthetic inspiration.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpalomino502&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=jpalomino502&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpalomino502&radius=16&theme=radical&area=true&order=5" height="300" alt="activity graph" />
-</div>
-
----
-
-### 🎯 Fun Zone
-
-<div align="center">
-  <img height="280" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1275.gif" alt="fun gif" />
-</div>
-
----
-
-### 🎵 What I'm Listening To
-
-<div align="center">
+  <h3>🎧 What I'm Listening To</h3>
   <a href="https://open.spotify.com/user/31iozmtsvqf5hqswymg3ncg2pzqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iozmtsvqf5hqswymg3ncg2pzqy&count=5&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iozmtsvqf5hqswymg3ncg2pzqy&count=4&unique=true&theme=radical" alt="Spotify recently played" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <em>"My goal is not just to develop—it's to create experiences that connect, inspire, and transmit something real."</em>
+</p>
