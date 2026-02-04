@@ -60,17 +60,6 @@ I'm not just a developer. My work is heavily influenced by:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <h3>🎧 What I'm Listening To</h3>
-  <a href="https://open.spotify.com/user/31iozmtsvqf5hqswymg3ncg2pzqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iozmtsvqf5hqswymg3ncg2pzqy&count=4&unique=true&theme=radical" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <em>"My goal is not just to develop—it's to create experiences that connect, inspire, and transmit something real."</em>
 </p>
