@@ -45,7 +45,7 @@ I focus on creating clean, modern, and expressive interfaces.
 
 ### 🌟 Projects that Define Me
 
-- **[ChefSync](https://chefsync.co)** (In Development): My pride and joy. A SaaS POS for restaurants that taught me advanced architecture and patience.
+- **[ChefSync](https://chefsync.app)** (In Development): My pride and joy. A SaaS POS for restaurants that taught me advanced architecture and patience.
 - **[jpalomino.dev](https://jpalomino.dev)**: My dual-personality portfolio. A space where my "Professional" and "Creative" sides coexist.
 - **Creative Experiments**: I love building landing pages with visual effects (Three.js, MagicUI) that leave a lasting impression.
 
